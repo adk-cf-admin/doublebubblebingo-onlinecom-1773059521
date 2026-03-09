@@ -36,25 +36,25 @@
             }
         },
         "icons": {
-            "icon192": "https:\/\/paf-casino-online.com\/icons\/icon-192x192.webp"
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4074"
         },
         "header": {
-            "logo": "https:\/\/paf-casino-online.com\/_next\/static\/media\/logo.9568bf57.svg",
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4075",
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
-            "logoAlt": "Paf Casino Sverige Logo"
+            "logoAlt": "Double Bubble Bingo Logo"
         },
         "nav": {
             "signUp": "Sign Up",
             "playNow": "Play Now"
         },
         "footer": {
-            "logo": "https:\/\/paf-casino-online.com\/images\/og_image.webp",
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4076",
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
-            "copyright": "Paf Casino"
+            "copyright": "Double Bubble Bingo"
         }
     },
     "pages": [
@@ -67,29 +67,29 @@
             "isDefault": true,
             "sections": {
                 "seo": {
-                    "name": "Paf Casino Sverige",
-                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
-                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "#",
-                    "ogImage": "https:\/\/paf-casino-online.com\/images\/og_image.webp",
+                    "name": "Double Bubble Bingo",
+                    "title": "Double Bubble Bingo — UK's Best Online Bingo Site",
+                    "description": "Play at Double Bubble Bingo UK — claim £50 Free Bingo, enjoy 90-ball rooms, slots & live casino. UKGC licensed, free withdrawals. Join today!\n",
+                    "canonical": "doublebubblebingo-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4077",
                     "ogImageWidth": 1200,
                     "ogImageHeight": 630,
-                    "twitterSite": "@pafcasino",
-                    "favicon": "https:\/\/paf-casino-online.com\/favicon.ico"
+                    "twitterSite": "doublebubblebingo-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4078"
                 },
                 "hero": {
-                    "title": "H1 title about casino",
+                    "title": "UK's Favourite Online Bingo & Slots Destination",
                     "textDesktop": "Exclusive welcome offer of",
                     "textMobile": "Exclusive welcome bonus of",
                     "playGame": "Play game",
                     "claimBonus": "Claim Bonus",
-                    "image": "https:\/\/paf-casino-online.com\/images\/hero-group.webp",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4079",
                     "imageSizeModifier": 0,
-                    "imageYModifier": 0,
+                    "imageYModifier": -4,
                     "imageXModifier": 0,
-                    "mobileImage": "https:\/\/paf-casino-online.com\/images\/hero-mobile.webp",
-                    "mobileImageSizeModifier": 0,
-                    "mobileImageYModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4080",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 2,
                     "mobileImageXModifier": 0
                 },
                 "topCasino": {
@@ -114,24 +114,25 @@
                 },
                 "advantages": {
                     "title": "Advantages",
-                    "advantagesBeforeText": "Some text before list",
+                    "advantagesBeforeText": "Looking for a trusted online bingo site in the UK? We operate under a full UKGC licence (account #38905), offer free withdrawals with no hidden fees, and reward you with daily free games every single day. Here's why UK players choose Double Bubble Bingo:\n",
                     "items": [
-                        "Legal and safe casino",
-                        "Quick registration",
-                        "Data protection",
-                        "No wagering bonus",
-                        "Wide range of games"
+                        "UKGC Licensed — Gambling Commission account #38905 & Gibraltar RGL No. 46",
+                        "Welcome Offer: Play £10 Get £50 Free Bingo or 50 Free Spins",
+                        "Daily Free Games — play every day at zero cost, no deposit needed",
+                        "Free Withdrawals Anytime — keep 100% of your winnings, no fees",
+                        "75, 80 & 90-ball bingo rooms plus Slingo, slots & live casino",
+                        "Collect reward points across bingo, slots, Slingo & casino games"
                     ],
-                    "advantagesAfterText": "Some text after list",
+                    "advantagesAfterText": "Join thousands of UK players already enjoying certified fair gaming at Double Bubble Bingo. Our dedicated British support team and UKGC-regulated platform ensure a safe, fun experience every day.\n",
                     "knowMore": "Know more",
-                    "appTitle": "Mobile App",
-                    "mobile": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.cd4410fa.webp&w=384&q=75",
+                    "appTitle": "Double Bubble Bingo App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4081",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
-                    "mobileAlt": "Mobile App",
-                    "mobileGooglePlayImageTitle": "Mobile App",
-                    "mobileIosImageTitle": "Mobile App"
+                    "mobileAlt": "Double Bubble Bingo App",
+                    "mobileGooglePlayImageTitle": "Double Bubble Bingo App",
+                    "mobileIosImageTitle": "Double Bubble Bingo App"
                 },
                 "games": {
                     "playNowText": "Play now",
@@ -140,25 +141,27 @@
                 },
                 "about": {
                     "history": {
-                        "title": "History",
-                        "description1": "First paragraph of history",
+                        "title": "About Double Bubble Bingo",
+                        "description1": "We are Double Bubble Bingo, the UK's home of bubbly online gaming. Operated by Gamesys Operations Limited and fully licensed by the UK Gambling Commission, we offer bingo, slots, Slingo, and live casino under one colourful roof.\n",
                         "items": [
-                            "History item 1",
-                            "History item 2"
+                            "Launched by Gamesys Operations Limited, Gibraltar-based operator",
+                            "UKGC licence #38905 secured — full Great Britain compliance",
+                            "Expanded to 75, 80 and 90-ball bingo rooms for UK players",
+                            "Introduced Slingo — unique bingo-slots hybrid game format"
                         ],
-                        "description2": "Second paragraph of history",
-                        "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                        "description2": "We operate under UKGC account #38905 and Gibraltar RGL No. 46, ensuring full regulatory compliance. Our platform uses SSL 256-bit encryption on all transactions. Every game is RNG-certified for provably fair outcomes for UK players.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4082",
                         "imageSizeModifier": 0,
                         "imageYModifier": 0,
                         "imageXModifier": 0,
                         "imageAlt": "History",
-                        "description3": "Third paragraph of history"
+                        "description3": "We continue adding new bingo rooms, jackpot slots, and Slingo titles tailored for UK players. Our responsible gambling tools — including deposit limits and self-exclusion — keep gaming safe. Pop in today and discover why we're a British favourite!\n"
                     }
                 },
                 "custom": {
                     "customHtml": {
-                        "title": "Title for custom section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                        "title": "Complete Bingo & Games Guide for UK Players",
+                        "description": "<h2>Complete Bingo & Games Guide for UK Players<\/h2>\n\n<p>At Double Bubble Bingo, we pride ourselves on offering one of the most comprehensive and entertaining online gaming experiences available to UK players today. Our platform — operated by Gamesys Operations Limited under UKGC licence account #38905 — brings together the thrill of traditional bingo, the excitement of jackpot slots, the uniqueness of Slingo, and the glamour of live casino, all in one vibrant, bubble-themed destination. Whether you're a seasoned bingo enthusiast or a slots fanatic looking for big wins, we have something extraordinary waiting for you every single day.<\/p>\n\n<h3>Online Bingo Rooms — 75, 80 & 90-Ball Action<\/h3>\n<p>Our bingo lobby is the beating heart of Double Bubble Bingo. We offer three distinct bingo formats beloved by UK players — 75-ball, 80-ball, and 90-ball bingo — each delivering a uniquely exciting experience. Our schedule runs throughout the day with a packed timetable of bingo games, meaning there's always a room ready for you to jump into. UK players particularly love our 90-ball rooms, which follow the classic British format with three prize tiers: one line, two lines, and a full house. Each room is themed, social, and full of chat, making the experience feel like a true community event rather than just a game.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Fishin' Frenzy Bingo:<\/strong> One of our most popular themed rooms, combining the beloved Fishin' Frenzy brand with 90-ball bingo mechanics. Tickets are affordably priced for UK players, and regular jackpot prizes keep every session exciting.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Candy Club:<\/strong> A sweet-themed bingo room offering a fun, colourful atmosphere with competitive ticket prices. Perfect for players who enjoy a more casual, entertaining bingo session with vibrant visuals and generous prize pools.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Front Room Bingo:<\/strong> Our cosiest room designed to evoke the classic British living room bingo experience. Ideal for newcomers and regulars alike, with accessible ticket prices and a friendly chat community.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Superlinks Bingo:<\/strong> A networked bingo room connecting UK players across the Gamesys network, offering much larger prize pools and progressive jackpots that build with every ticket purchased across the network.<\/li>\n<\/ul>\n\n<h3>What Makes Our Double Bubble Slots So Special?<\/h3>\n<p>Our flagship game range — the Double Bubble slots series by Roxor Gaming — is what sets us apart from every other UK bingo and slots site. These iconic, bubble-themed games combine nostalgic charm with modern mechanics and real cash prizes. The Double Bubble brand has been a staple of UK gaming for years, and we've curated the ultimate collection for dedicated fans right here on our platform.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Double Bubble (Classic):<\/strong> The original and iconic slot by Roxor Gaming that inspired our entire brand. Features colourful bubble symbols, free spins rounds, and multiple win lines. Beloved by UK players for its straightforward, rewarding gameplay.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Double Bubble Triple Jackpot:<\/strong> Our most exciting slots variant featuring three progressive Bubble Pot jackpots running simultaneously. Players across the UK contribute to the prize pool with every spin, creating life-changing jackpot wins.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Double Bubble Jackpot:<\/strong> A dedicated jackpot slot offering a single, ever-growing progressive prize. With frequent wins and an engaging bubble-popping bonus round, this is among our top-played titles for UK slot enthusiasts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Double Bubble Super 7 Scratchcard:<\/strong> A fast-paced digital scratchcard experience featuring the Double Bubble theme. Perfect for quick-play sessions, with instant-win prizes and the iconic bubble aesthetic UK players know and love.<\/li>\n<\/ul>\n\n<h3>Slingo — The Ultimate Bingo-Slots Hybrid<\/h3>\n<p>One of our most exciting game categories is Slingo — a thrilling fusion of bingo and slots mechanics that has taken the UK gaming market by storm. Slingo combines a slots reel with a bingo grid, where players spin to mark off numbers and complete lines for prizes. We offer an impressive Slingo portfolio featuring some of the UK's most recognisable brands and entertainment licences, ensuring every session is packed with entertainment and winning potential.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slingo Rainbow Riches:<\/strong> Combines the legendary Rainbow Riches brand with Slingo mechanics. Features the iconic Road to Riches bonus and Wishing Well, delivering premium gameplay loved by millions of UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slingo Reel King:<\/strong> Based on one of the UK's most popular land-based slot themes, this Slingo variant captures the magic of Reel King with bingo-style grid play and the beloved Reel King bonus characters.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slingo Centurion:<\/strong> A Roman-themed Slingo game with exciting Hold & Spin features and multiple free spins bonuses. One of our higher-volatility Slingo titles offering bigger winning potential for UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deal or No Deal Slingo:<\/strong> Licensed from the iconic British TV game show, this title integrates the suspenseful \"Deal or No Deal\" box mechanic with Slingo gameplay — a UK exclusive experience that delivers unmatched excitement.<\/li>\n<\/ul>\n\n<h3>Online Slots Portfolio — Top Titles for British Players<\/h3>\n<p>Beyond our signature Double Bubble range, we offer a curated selection of the UK's most popular online slots from leading software developers. Our slots library features certified games with competitive Return to Player (RTP) rates, all tested and verified under UKGC regulations. British players will find beloved titles from the Rainbow Riches, 9 Pots of Gold, and Big Bass franchises alongside dozens of other premium games.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #0ed17e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Feature<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #57b684;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Double Bubble<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Slots<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free Spins<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b9f72;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>9 Pots of Gold<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Slots<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">9 Jackpots<\/td>\n    <\/tr>\n    <tr style=\"background-color: #57b684;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Rainbow Riches<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Slots<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Bonus Wheel<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b9f72;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Big Bass Splash<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Jackpot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">On-Demand JP<\/td>\n    <\/tr>\n    <tr style=\"background-color: #57b684;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Tiki Island JP<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Jackpot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Progressive<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b9f72;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Slingo Rainbow<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Slingo<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Road to Riches<\/td>\n    <\/tr>\n    <tr style=\"background-color: #57b684;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Fishin' Frenzy Bingo<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Bingo<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">90-Ball<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Daily Free Games — Play Every Day Without Spending<\/h3>\n<p>One of our most popular features for UK players is our Daily Free Games programme. Every day, we offer free-to-play games through our \"Doubly Bubbly\" series — including Doubly Bubbly Daily Bubbles and Doubly Bubbly: Bonus Pop — alongside our Slot Masters Tournaments. These free sessions give you a genuine chance to win real prizes without risking your own money, adding incredible daily value to your Double Bubble Bingo membership. Simply log in each day to claim your free entries and start playing.<\/p>\n\n<h3>On-Demand Jackpots — Win Big Prizes Anytime<\/h3>\n<p>Our On-Demand Jackpots section offers UK players the chance to win major cash prizes that are guaranteed to drop before a specific value is reached. Unlike standard progressives, our on-demand jackpots must be won before the counter hits the maximum, meaning every player has a real, deadline-driven shot at a substantial win. Featured titles include King Kong Cash Even Bigger Bananas 2 and Big Bass Splash, both delivering enormous prize potential with every spin. These jackpots are particularly popular among British players who enjoy the combination of regular slot gameplay with guaranteed, time-sensitive jackpot triggers.<\/p>\n\n<h3>Why UK Players Trust Double Bubble Bingo<\/h3>\n<p>We are one of the UK's most trusted online bingo and gaming sites, backed by Gamesys Operations Limited — a respected Gibraltar-based operator with decades of experience serving British players. Our full UKGC licence (account #38905) ensures we meet the strictest standards for player protection, fair gaming, and responsible gambling in Great Britain. Additionally, our Gibraltar Gambling Commissioner licence (RGL No. 46) and Irish Revenue Commissioners licence (1021538) demonstrate our multi-jurisdictional commitment to safe, regulated online gaming. Every game on our platform undergoes rigorous RNG testing, and all personal data is protected by SSL 256-bit encryption, keeping your information and funds completely secure.<\/p>\n"
                     }
                 },
                 "softwareProviders": {
@@ -166,20 +169,44 @@
                 },
                 "custom_2": {
                     "customHtml_2": {
-                        "title": "Title for custom section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                        "title": "Bonuses, Banking & Support for UK Players",
+                        "description": "<h2>Bonuses, Banking & Support for UK Players<\/h2>\n\n<p>At Double Bubble Bingo, we've designed every aspect of our platform around the needs and preferences of UK players. From our generous welcome offers and ongoing promotions to our commitment to free withdrawals and round-the-clock support, we go above and beyond to ensure your gaming experience is rewarding, transparent, and hassle-free. Operating under the UK Gambling Commission (UKGC account #38905), we adhere to the highest standards of player protection and fair practice in Great Britain, giving you total confidence every time you play.<\/p>\n\n<h3>How Do I Claim My Welcome Offer at Double Bubble Bingo?<\/h3>\n<p>Claiming your welcome bonus is quick and straightforward. Simply register your new account, opt in to your preferred welcome offer, and make your first deposit of just £10 using any supported UK payment method. You'll then receive either £50 in Free Bingo tickets or 50 Free Spins on the iconic Double Bubble slot. Both offers are designed specifically for new UK members and reflect our commitment to giving British players a brilliant start to their Double Bubble Bingo journey.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bingo Welcome Offer:<\/strong> Play £10, Get £50 Free Bingo — new members only, must opt in, minimum £10 deposit and £10 wager on Bingo. Free Bingo tickets valid for 30 days from deposit. Based on £1 ticket value. Terms apply. 18+.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slots\/Casino Welcome Offer:<\/strong> Play £10, Get 50 Free Spins — new members only, must opt in, minimum £10 deposit and £10 wager on Casino or Slots. Free Spins awarded on Double Bubble at 1p coin size, max lines. 30-day expiry. 18+.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Keep What You Win:<\/strong> Our platform operates on the UK's trusted \"Keep What You Win\" model, meaning any winnings from eligible promotions are yours to keep without excessive wagering barriers — a commitment to transparent, player-friendly bonusing.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Box Bonanza Prizes:<\/strong> Ongoing promotion where random Box Bonanza games land during your session, giving you the chance to win additional cash prizes with no extra cost. Available across bingo, slots, Slingo, and casino game categories.<\/li>\n<\/ul>\n\n<h3>Ongoing Promotions — Rewards Across Every Game Category<\/h3>\n<p>Our promotions programme at Double Bubble Bingo doesn't stop at the welcome offer. We run a diverse range of ongoing promotions across all game categories — bingo, slots, Slingo, and live casino — ensuring there's always added value on the table for loyal UK players. Our promotional calendar features prize draws, free spin rewards, cashback opportunities, and exclusive tournament events. We also offer a reward points system, allowing players to accumulate points with every game played and exchange them for bonus credits, free tickets, or other prizes. The more you play across our platform, the more you earn — making Double Bubble Bingo genuinely rewarding for British gaming enthusiasts at every level.<\/p>\n\n<h3>Slot Masters Tournaments — Compete for UK Prizes<\/h3>\n<p>Our Slot Masters Tournaments offer UK players a competitive, community-driven gaming experience beyond standard slot sessions. Compete against fellow British players on a leaderboard, earning points based on your slot performance within a set time frame. Tournament prizes are distributed across the top finishers, creating an exciting, skill-influenced layer of competition on top of traditional slot gameplay. These free-to-enter tournaments run regularly across our top slot titles, giving every UK member a chance to climb the ranks and claim their share of the prize pool.<\/p>\n\n<h3>Free Withdrawals — Keep 100% of What You Win<\/h3>\n<p>We believe UK players should never be penalised for withdrawing their own money. That's why we offer completely free withdrawals with no processing fees at any time. Whether you've won from bingo, slots, Slingo, or live casino, you can request a withdrawal using your preferred UK payment method without any deductions. Our free withdrawal policy is one of the most player-friendly features we offer, and it's a direct reflection of our commitment to transparency and fairness under UKGC regulations.<\/p>\n\n<h3>Payment Methods for UK Players<\/h3>\n<p>We support a range of trusted UK payment methods for both deposits and withdrawals, ensuring fast, secure, and fee-free transactions in Great British Pounds (GBP). All financial transactions are secured by SSL 256-bit encryption, and we comply fully with UK financial regulations and PCI-DSS standards for card data protection. The minimum deposit is £10, making our platform accessible for all UK players regardless of budget.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #0ed17e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Fee<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #57b684;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Card<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b9f72;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>PayPal<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">e-Wallet<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #57b684;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">e-Wallet<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b9f72;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">e-Wallet<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #57b684;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Bank<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #4b9f72;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Paysafecard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Prepaid<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Free<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Responsible Gambling — Our Commitment to UK Players<\/h3>\n<p>As a fully UKGC-licensed operator, responsible gambling is not merely a checkbox for us — it is a core pillar of how we operate. We provide a comprehensive suite of responsible gambling tools for all UK players, ensuring you always stay in control of your gaming activity. Our platform is registered with GambleAware, the leading charity for safer gambling in Great Britain, and we display BeGambleAware messaging prominently throughout our site. All gaming on Double Bubble Bingo is strictly 18+, and we employ robust age verification processes to prevent underage gambling, in full compliance with UKGC requirements.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit Limits:<\/strong> Set daily, weekly, or monthly deposit limits on your account at any time. Reductions take effect immediately; increases are subject to a 24-hour cooling-off period as required by UKGC regulations.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Session Time Limits:<\/strong> Configure alerts and automatic session cut-offs to manage how long you spend gaming. Regular on-screen reminders keep you informed about time and spend during active sessions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion:<\/strong> UK players can self-exclude from Double Bubble Bingo for periods of 6 months to 5 years, or permanently. We are also integrated with GAMSTOP, the UK's national self-exclusion scheme, for cross-operator protection.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Checks:<\/strong> Receive automatic pop-up reminders at regular intervals during play, showing how long you've been active and encouraging mindful gaming habits in line with UKGC safer gambling guidelines.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>GambleAware Support:<\/strong> We actively promote GambleAware.org — the UK's leading independent gambling charity — providing direct links to free, confidential support and advice for anyone affected by gambling-related harm.<\/li>\n<\/ul>\n\n<h3>Customer Support — Help When You Need It<\/h3>\n<p>Our dedicated support team is here to assist UK players with any queries related to accounts, bonuses, payments, game technical issues, or responsible gambling tools. We offer multiple contact channels to suit your preferences, with English-language support tailored specifically for British players. Whether you have a question about your Free Bingo offer, need help with a withdrawal, or want guidance on setting responsible gambling limits, our team is ready to provide fast, friendly, and knowledgeable assistance at all times. Explore our comprehensive Help and FAQ section for instant answers to the most common queries from UK players.<\/p>\n"
                     }
                 },
                 "faq": {
                     "title": "Frequently Asked Questions",
                     "items": [
                         {
-                            "title": "FAQ Question 1",
-                            "answer": "FAQ Answer 1"
+                            "title": "Is Double Bubble Bingo licensed and safe for UK players?",
+                            "answer": "Yes, we are fully licensed by the UK Gambling Commission (account #38905) and Gibraltar Gambling Commissioner (RGL No. 46). Our platform uses SSL 256-bit encryption on all transactions. Every game is RNG-certified, and we are registered with GambleAware for responsible gambling compliance.\n"
                         },
                         {
-                            "title": "FAQ Question 2",
-                            "answer": "FAQ Answer 2"
+                            "title": "How do I claim the £50 Free Bingo welcome offer?",
+                            "answer": "Register your new account, opt in to the Bingo Welcome Offer, and deposit a minimum of £10 via any supported UK payment method. Then wager £10 on Bingo and your £50 in Free Bingo tickets will be credited automatically. Offer valid for 30 days from deposit. New members only, 18+. Terms apply.\n"
+                        },
+                        {
+                            "title": "What bingo games are available at Double Bubble Bingo?",
+                            "answer": "We offer 75-ball, 80-ball, and 90-ball online bingo rooms including Fishin' Frenzy Bingo, Candy Club, Front Room, and Superlinks Bingo. Our schedule runs throughout the day with multiple sessions, giving UK players plenty of opportunities to join a game and win real cash prizes anytime.\n"
+                        },
+                        {
+                            "title": "Are withdrawals really free at Double Bubble Bingo?",
+                            "answer": "Yes, we offer completely free withdrawals at any time with absolutely no processing fees. Simply navigate to the cashier section, select your preferred UK payment method such as PayPal, Visa, or bank transfer, and submit your request. Winnings from all game types — bingo, slots, Slingo, and casino — are eligible for free withdrawal.\n"
+                        },
+                        {
+                            "title": "What are the Daily Free Games at Double Bubble Bingo?",
+                            "answer": "Our Daily Free Games include Doubly Bubbly Daily Bubbles and Doubly Bubbly: Bonus Pop — free-to-play games available every day for registered UK members. We also run Slot Masters Tournaments at no entry cost. Simply log in each day to access your free sessions and win real prizes without any deposit required.\n"
+                        },
+                        {
+                            "title": "What is Slingo and how does it work?",
+                            "answer": "Slingo is a unique hybrid game combining slots and bingo mechanics on a single grid. You spin a reel at the bottom of the board to mark off numbers on your 5x5 bingo grid, aiming to complete lines for prizes. We offer titles including Slingo Rainbow Riches, Slingo Reel King, and Deal or No Deal Slingo — all popular with UK players.\n"
+                        },
+                        {
+                            "title": "Can I play Double Bubble Bingo on my mobile phone?",
+                            "answer": "Absolutely — our platform is fully optimised for mobile devices including iOS and Android smartphones and tablets. All bingo rooms, slots, Slingo, and live casino games are accessible via your mobile browser with no download required. The mobile experience delivers the same full functionality as desktop, allowing UK players to enjoy gaming anywhere.\n"
+                        },
+                        {
+                            "title": "How do self-exclusion tools work at Double Bubble Bingo?",
+                            "answer": "You can self-exclude from Double Bubble Bingo for 6 months, 1 year, 5 years, or permanently via your account settings. We are also integrated with GAMSTOP — the UK's national cross-operator self-exclusion scheme — providing comprehensive protection. Contact our support team directly if you need immediate assistance with self-exclusion or safer gambling tools.\n"
                         }
                     ]
                 }

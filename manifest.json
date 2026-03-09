@@ -1,6 +1,6 @@
 {
-  "name": "Paf Casino Sverige",
-  "short_name": "Paf Casino Sverige",
+  "name": "Double Bubble Bingo",
+  "short_name": "Double Bubble Bingo",
   "theme_color": "",
   "background_color": "#FC65AB",
   "display": "standalone",
@@ -9,7 +9,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "https://paf-casino-online.com/icons/icon-192x192.webp",
+      "src": "_assets/images/1773059761-favicondoublebubblebingo.ico",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable any"
